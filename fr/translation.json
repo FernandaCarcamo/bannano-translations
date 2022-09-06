@@ -1,0 +1,126 @@
+{
+  "menu": {
+    "personal": "Personal",
+    "profile": "Profile",
+    "settings": "Settings",
+    "wallet": "Wallet",
+    "recruiter": "Recruiter",
+    "become_recruiter": "Become a recruiter",
+    "agency": "Agency",
+    "create_agency": "Create an agency",
+    "manage_users": "Manage users",
+    "logout": "Logout"
+  },
+  "form": {
+    "error": {
+      "field_required": "This field is required",
+      "email_invalid": "Must be a valid email",
+      "word_invalid": "This field must only contain letters",
+      "phone_invalid": "Must be a valid phone number",
+      "url_invalid": "Must be a valid URL",
+      "password_invalid": "Password can have between 8 to 20 characters and must have at least one lowercase letter, one uppercase letter, one numeric digit, and one special character",
+      "password_unmatched": "Passwords don't match",
+      "not_selected": "Select a valid option",
+      "date_before": "End date must be after start date"
+    },
+    "buttons": {
+      "cancel": "Cancel",
+      "save": "Save"
+    }
+  },
+  "login": {
+    "password": "Password",
+    "log_in": "Log in",
+    "connect_with_hashpack": "Connect with Hashpack",
+    "forgot_password": "Forgot your password?"
+  },
+  "contact_info": {
+    "receive_messages": "Receive messages",
+    "for": "for",
+    "show_for": "Show for",
+    "linkedin_profile": "LinkedIn profile",
+    "manage_calendar": "Manage calendar",
+    "cv_as_pdf": "CV as PDF",
+    "form": {
+      "title": "Edit Contact Information",
+      "first_name": "First name",
+      "last_name": "Last name",
+      "status": "Status",
+      "email": "Email",
+      "phone": "Phone",
+      "linkedin": "LinkedIn URL",
+      "cv_as_pdf": "CV as PDF",
+      "current_cv": "Current CV file",
+      "upload_pdf": "Upload PDF",
+      "select_one": "Select one"
+    }
+  },
+  "about": {
+    "title": "About",
+    "default_text": "Write something about yourself...",
+    "form": {
+      "title": "Edit About",
+      "text": "You can write about your years of experience, industry, or skills. People also talk about their achievements or previous job experiences."
+    }
+  },
+  "experience": {
+    "title": "Experience",
+    "default_text": "Add some experiences...",
+    "see_more": "see more",
+    "form": {
+      "title_add": "Add experience",
+      "title_edit": "Edit experience",
+      "title_label": "Title",
+      "company": "Company",
+      "employment_type": "Employment type",
+      "location": "Location",
+      "start_date": "Start date",
+      "end_date": "End date",
+      "description": "Description",
+      "select_one": "Select one"
+    }
+  },
+  "education": {
+    "title": "Education",
+    "default_text": "Add some of your educational progress...",
+    "see_more": "see more",
+    "form": {
+      "title_add": "Add education",
+      "title_edit": "Edit education",
+      "school": "School",
+      "degree": "Degree",
+      "field_of_study": "Field of study",
+      "start_date": "Start date",
+      "end_date": "End date",
+      "description": "Description",
+      "select_one": "Select one"
+    }
+  },
+  "certifications": {
+    "title": "Certifications",
+    "default_text": "Add some certifications...",
+    "show_credential": "Show credential",
+    "issued": "Issued",
+    "expires": "Expires",
+    "no_expiration": "No expiration date",
+    "form": {
+      "title_add": "Add certification",
+      "title_edit": "Edit certification",
+      "name": "Name",
+      "organization": "Issuing organization",
+      "issue_date": "Issue date",
+      "no_expiration_date": "This credential does not expire",
+      "expiration_date": "Expiration date",
+      "credential_url": "Credential URL"
+    }
+  },
+  "skills": {
+    "title": "Skills",
+    "default_text": "Add some skills...",
+    "form": {
+      "title_add": "Add skill",
+      "title_edit": "Edit skill",
+      "name": "Name"
+    }
+  }
+}
