@@ -32,7 +32,8 @@
     "password": "Password",
     "log_in": "Log in",
     "connect_with_hashpack": "Connect with Hashpack",
-    "forgot_password": "Forgot your password?"
+    "forgot_password": "Forgot your password?",
+    "error": "Wrong email or password"
   },
   "contact_info": {
     "receive_messages": "Receive a message",
