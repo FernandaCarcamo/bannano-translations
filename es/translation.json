@@ -35,6 +35,27 @@
     "forgot_password": "¿Olvidaste tu contraseña?",
     "error": "Email o contraseña inválidos"
   },
+  "sign_up": {
+    "title": "Registro",
+    "first_name": "Nombre",
+    "last_name": "Apellidos",
+    "gender": "Sexo",
+    "gender_male": "Masculino",
+    "gender_female": "Femenino",
+    "birth_date": "Fecha de nacimiento",
+    "email": "Email",
+    "password": "Contraseña",
+    "repeat_password": "Repetir contraseña",
+    "country": "País",
+    "language": "Idioma",
+    "sign_up": "Registrar",
+    "or": "o",
+    "connect_with_hashpack":"Conectarme con Hashpack",
+    "agency_help": "¿Quieres crear una página para una agencia?",
+    "recruiter_help": "¿Quieres convertirte en un reclutador?",
+    "get_help": "Conseguir ayuda",
+    "error": "Hay un error en el formulario de registro. Por favor, revisa cada campo una vez más."
+  },
   "contact_info": {
     "receive_messages": "Recibir mensaje",
     "for": "por",

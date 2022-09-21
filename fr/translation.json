@@ -35,6 +35,27 @@
     "forgot_password": "Forgot your password?",
     "error": "Wrong email or password"
   },
+  "sign_up": {
+    "title": "Sign up",
+    "first_name": "First name",
+    "last_name": "Last name",
+    "gender": "Gender",
+    "gender_male": "Male",
+    "gender_female": "Female",
+    "birth_date": "Birth date",
+    "email": "Email",
+    "password": "Password",
+    "repeat_password": "Repeat password",
+    "country": "Country",
+    "language": "Preferred language",
+    "sign_up": "Sign up",
+    "or": "or",
+    "connect_with_hashpack":"Connect with Hashpack",
+    "agency_help": "Do you want to create a page for an agency?",
+    "recruiter_help": "Do you want to become a recruiter?",
+    "get_help": "Get help",
+    "error": "Something's wrong with the sign up form. Please check each field again."
+  },
   "contact_info": {
     "receive_messages": "Receive messages",
     "for": "for",
