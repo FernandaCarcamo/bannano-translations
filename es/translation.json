@@ -31,6 +31,7 @@
   "login": {
     "password": "Contraseña",
     "log_in": "Iniciar sesión",
+    "or": "o",
     "connect_with_hashpack": "Conectarme con Hashpack",
     "forgot_password": "¿Olvidaste tu contraseña?",
     "error": "Email o contraseña inválidos"
